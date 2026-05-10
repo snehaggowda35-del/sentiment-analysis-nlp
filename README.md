@@ -61,18 +61,28 @@ Neutral
 ```text
 Sentiment-Analysis-NLP/
 │
+├── module 1
+  ├── README.md
+  ├── module 1.ipynb
+├── module 2
+  ├── README.md
+  ├── module 2.ipynb
+├── module 3
+  ├── README.md
+  ├── module 3.ipynb
+├── module 4
+  ├── README.md
+  ├── module 4.ipynb
 ├── sentiment_analysis_model.ipynb
 ├── dataset.csv
 ├── requirements.txt
 ├── README.md
-├── model.pkl
-└── screenshots/
 ```
 ---
 ## How to Run
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/sentiment-analysis-nlp.git
+git clone https://github.com/snehaggowda35-del/Sentiment-Analysis-NLP
 ```
 ### 2. Install Dependencies
 ```bash
